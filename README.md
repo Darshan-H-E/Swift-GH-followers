@@ -31,12 +31,6 @@
 
 
 
-
-<img width="1416" alt="Screenshot 2024-01-16 at 2 17 00 AM" src="https://github.com/Darshan-H-E/GithubFollowers-Swift/assets/109128539/db9d9a61-e6aa-4192-9fe0-726587f2f60d">
-
-
-
-<img width="1412" alt="Screenshot 2024-01-16 at 2 18 14 AM" src="https://github.com/Darshan-H-E/GithubFollowers-Swift/assets/109128539/f5e4146a-b7e1-48b1-804a-dc5c38538970">
-
-
-![ScreenShot](https://github.com/Darshan-H-E/GithubFollowers-Swift/assets/109128539/5e1f03f0-edea-433a-9181-70366cfe9ff3)
+![ScreenShot 1](/screenshots/ss-1.png?raw=true)
+![ScreenShot 2](/screenshots/ss-2.png?raw=true)
+![ScreenShot 3](/screenshots/ss-3.jpeg?raw=true)
